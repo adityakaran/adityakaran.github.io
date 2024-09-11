@@ -1,13 +1,27 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Aditya Karan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I'm a 5th year PhD student at the University of Illinois advised by Professor Hari Sundaram. My work broadly looks at how groups of people 
+can work to understand large algorithmic systems (e.g pricing systems, recommendation systems, LLM) and work together to acheive better outcomes. In this manner, my work looks at interesction of algorthimic fairness/auditing and collective action. My work has primarily been targetted to ACM Conference on Fairness Accountabilty and Transparency (FAccT)
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+While pursuing my PhD, I have had the fortune of working various industry based research positions including at Vijil (developing more efficient benchmarking for LLMs)
+Instacart with the Econ team (initiating a project to refine payment authorization per user) and Snap (building user segementation models)
+
+Previously, I completed my Masters in Computational Science and Engineering at Harvard where I worked with Professor Hima Lakkaraju on developing fair clustering algorithms. I obtained my Bachelors in Computer Science and Applied & Computational Mathematics from Caltech advised by Adam Wierman. 
+
+In my non-academic professional life, I worked at a Strat at Goldman Sachs in New York on the Global Liquidity Products team (GLP) in Divisional Strats. I had a great experience working with many talented people and happy to talk about my time there. 
+
+Other interest that I wish to explore at some point include power/sustainablity in electricty grids, biological systems, and financial markets.
+
+If any of our interest align, don't hesitate to reach out!
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -46,4 +60,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
