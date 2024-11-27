@@ -23,7 +23,7 @@ Work Experience
 ## Permanent Positions 
 
 * July 2016 - July 2018: Strat in Global Liquidity Products at Goldman Sachs 
-  * Modeled forward looking funding requirements as required by Federal Reverse's Comprehensive Capital Analysis and Review process (CCAR) and the consequences to Funds Transfer Pricing (FTP) management.
+  * Modeled forward looking funding requirements as required by Federal Reserves's Comprehensive Capital Analysis and Review process (CCAR) and the consequences to Funds Transfer Pricing (FTP) management.
   * Implemented various aspect of FTP framework to incentive prudent spot and contingent liquidity risk management  
   * Systematizing and automatic calculation and evaluation of internal liquidity metrics
   * Repo pricing under various liquidity and funding constraints.
@@ -42,8 +42,7 @@ accurate estimate of trust of an LLM more efficiently
 existing experiments for heterogeneous treatment effect
 
 * Summer 2022: Applied Research Intern at [Snap](https://snap.com/en-US)
-  * Snap Inc
-  * Developed a POC on joint user segmentation and retention modeling for subgroup analysis 
+=  * Developed a POC on joint user segmentation and retention modeling for subgroup analysis 
   * Provided Meaningful insights on user content preferences that tend to correlate higher retention
 
 * Summer 2020: Software Engineering Intern at [Papaya](https://papayapay.com/)
@@ -83,4 +82,5 @@ Teaching
 Service and leadership
 ======
 * Program Committee Member for AIES 2024
+* CMAP Citizen Advisory Board Member 2022-
 * IMSA Alumni Board Member 2017-2018
