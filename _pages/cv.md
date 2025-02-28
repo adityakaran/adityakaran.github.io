@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My <a href ="{{ site.baseurl }}/files/Aditya_Karan_June24_CV__Copy_.pdf"> resume </a> as a PDF
+My <a href ="{{ site.baseurl }}/files/Aditya_Karan_Jan25_CV_version_online.pdf"> resume </a> as a PDF
 
 Education
 ======
@@ -81,6 +81,7 @@ Teaching
   
 Service and leadership
 ======
+* Program Committee Member for FAccT 2025
 * Program Committee Member for AIES 2024
 * CMAP Citizen Advisory Board Member 2022-
 * IMSA Alumni Board Member 2017-2018
