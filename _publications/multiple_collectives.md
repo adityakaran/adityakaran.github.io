@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Collective Action with Collective Action"
+title: "Algorithmic Collective Action with Two Collectives"
 collection: publications
 category: conferences
 permalink: /publication/multiple_collectives
@@ -7,7 +7,7 @@ excerpt: 'Building a framework for understanding algorithmic collective action w
 date: 2025-06-23
 venue: '2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://arxiv.org/abs/2505.00195'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 Given that data-dependent algorithmic systems have become impactful in more domains of life -- from finding media to influencing hiring -- the need for individuals to promote their own interest and hold algorithms accountable has grown. The large amount of data these systems use means that individuals cannot impact system behavior by acting alone. To have meaningful influence, individuals must band together to engage in collective action. The groups that engage in such algorithmic collective action are likely to vary in size, membership characteristics, ability to act on data, and crucially, objectives. In this work, we introduce a first of a kind framework for studying collective action with two or more collectives that strategically behave to manipulate data-driven systems. With more than one collective acting on a system, unexpected interactions may occur. 

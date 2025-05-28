@@ -6,7 +6,7 @@ permalink: /conferences/browsing_history_23
 excerpt: 'The prices of flights and hotels in an competitive online marketplace (Kayak) is influenced by browsing history and can be decomposed to 
 differnetiation done by the seller as well as non-seller based differentiation.'
 date: 2023-06-10
-venue: 'ACM Conference on Fairness, Accountability, and Transparency (FAccT)'
+venue: '2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT)'
 slidesurl: 'http://adityakaran.github.io/files/FAccT_2023_Slides.pdf'
 paperurl: 'http://academicpages.github.io/\files\Your_Browsing_History_May_Cost_You__1_.pdf'
 citation: 'Karan, A., Balepur, N., & Sundaram, H. (2023, June). Your Browsing History May Cost You: A Framework for Discovering Differential Pricing in Non-Transparent Markets. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (pp. 717-735).'
