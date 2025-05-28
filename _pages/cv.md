@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My <a href ="{{ site.baseurl }}/files/Aditya_Karan_Jan25_CV_version_online.pdf"> resume </a> as a PDF
+My <a href ="{{ site.baseurl }}/files/Aditya_Karan_Apr25_CV_version_online.pdf"> resume </a> as a PDF
 
 Education
 ======
