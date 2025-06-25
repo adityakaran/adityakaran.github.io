@@ -6,9 +6,10 @@ permalink: /publication/marketplace_fariness
 excerpt: 'This paper examines how groups can exploit high dispersion personalized pricing via a trading based system to improve outcomes'
 date: 2025-06-23
 venue: '2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT)'
+blogsurl: https://crowddynamicslab.github.io/online/marketplaces,/exchanges,/game/theory/2025/06/18/private-prices/
 #slidesurl: 'http://academicpages.github.io/files/marketplace_fairness_24/slides.pdf'
-paperurl: 'http://adityakaran.github.io/files/Fair_consumer_pricing_arxiv.pdf'
-citation: 'Karan, A., Balepur, N., & Sundaram, H. (2024). Designing Fair Systems for Consumers to Exploit Personalized Pricing. arXiv preprint arXiv:2409.02777'
+paperurl: 'https://dl.acm.org/doi/10.1145/3715275.3732076'
+citation: 'Aditya Karan, Naina Balepur, and Hari Sundaram. 2025. Oh the Prices You’ll See: Designing a Fair Exchange System to Mitigate Personalized Pricing. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25). Association for Computing Machinery, New York, NY, USA, 1159–1171. https://doi.org/10.1145/3715275.3732076'
 ---
 
 Many online marketplaces personalize prices based on consumer attributes. Since these prices are private, consumers will not realize if they spend more on a good than the lowest possible price, and cannot easily take action to get better prices.
