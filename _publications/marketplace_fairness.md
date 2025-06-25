@@ -8,7 +8,7 @@ date: 2025-06-23
 venue: '2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT)'
 #slidesurl: 'http://academicpages.github.io/files/marketplace_fairness_24/slides.pdf'
 paperurl: 'https://dl.acm.org/doi/10.1145/3715275.3732076'
-citation: 'Karan, A., Balepur, N., & Sundaram, H. (2024). Designing Fair Systems for Consumers to Exploit Personalized Pricing. arXiv preprint arXiv:2409.02777'
+citation: 'Aditya Karan, Naina Balepur, and Hari Sundaram. 2025. Oh the Prices You’ll See: Designing a Fair Exchange System to Mitigate Personalized Pricing. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25). Association for Computing Machinery, New York, NY, USA, 1159–1171. https://doi.org/10.1145/3715275.3732076'
 ---
 
 Many online marketplaces personalize prices based on consumer attributes. Since these prices are private, consumers will not realize if they spend more on a good than the lowest possible price, and cannot easily take action to get better prices.
