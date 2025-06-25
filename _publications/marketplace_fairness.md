@@ -7,7 +7,7 @@ excerpt: 'This paper examines how groups can exploit high dispersion personalize
 date: 2025-06-23
 venue: '2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT)'
 #slidesurl: 'http://academicpages.github.io/files/marketplace_fairness_24/slides.pdf'
-paperurl: 'http://adityakaran.github.io/files/Fair_consumer_pricing_arxiv.pdf'
+paperurl: 'https://dl.acm.org/doi/10.1145/3715275.3732076'
 citation: 'Karan, A., Balepur, N., & Sundaram, H. (2024). Designing Fair Systems for Consumers to Exploit Personalized Pricing. arXiv preprint arXiv:2409.02777'
 ---
 
