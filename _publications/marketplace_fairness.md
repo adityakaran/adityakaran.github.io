@@ -1,5 +1,5 @@
 ---
-title: "Designing Fair Systems for Consumers to Exploit Personalized Pricing"
+title: "Oh the Prices You’ll See: Designing a Fair Exchange System to Mitigate Personalized Pricing"
 collection: publications
 category: conferences
 permalink: /publication/marketplace_fariness

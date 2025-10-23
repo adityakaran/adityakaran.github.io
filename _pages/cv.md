@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-My <a href ="{{ site.baseurl }}/files/Aditya_Karan_Apr25_CV_version_online.pdf"> resume </a> as a PDF
+My <a href ="{{ site.baseurl }}/files/Aditya_Karan_CV_online.pdf"> resume </a> as a PDF
 
 Education
 ======
-* Ph.D in Computer Science, University of Illinois at Urbana Champaign, Dec 2025 (expected)
+* Ph.D in Computer Science, University of Illinois at Urbana Champaign, Winter 2025-Spring 2026 (expected)
 * M.S. in Computational Science and Engineering, Harvard University, 2020
 * B.S. (with Honors) in Computer Science & Applied and Computational Mathematics, California Institute of Technology, 2016
 
@@ -32,7 +32,9 @@ Work Experience
 
 ## Industry Internships
 
-* Summer 2024: Applied Science Intern at [Vijil](https://www.vijil.ai/)
+* Summer 2024 - Present: Applied Scientist at [Vijil](https://www.vijil.ai/)
+  * Building agentic pipeline to create custom red teaming scenarios for other agents
+  * Developed a persona based red teaming leading towards [Global Dialogue Challenge](https://www.cip.org/challenge) Honorable Mention
   * Implemented a general pipeline for optimizing benchmark evaluations for large LLM benchmark (DecodingTrust, OpenLLM, etc) to give an
 accurate estimate of trust of an LLM more efficiently 
   

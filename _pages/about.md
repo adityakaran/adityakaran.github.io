@@ -9,7 +9,7 @@ redirect_from:
 
 **I will be graduating this upcoming academic year (2025-2026) and open to both academic and industry positions**
 
-I'm a 5th year PhD student at the University of Illinois advised by Professor Hari Sundaram. My work broadly looks at how groups of people 
+I'm a final year PhD student at the University of Illinois advised by Professor Hari Sundaram. My work broadly looks at how groups of people 
 can work to understand large algorithmic systems (e.g pricing systems, recommendation systems, LLM) and work together to achieve better outcomes. In this way, my work looks at intersection of algorithmic fairness/auditing and collective action. My work has primarily been targeted to ACM Conference on Fairness Accountability and Transparency (FAccT).
 
 While pursuing my PhD, I have had the fortune of working various industry-based research positions including at Vijil (developing more efficient benchmarking for LLMs)
